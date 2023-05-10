@@ -64,6 +64,7 @@ A curated list of amazingly awesome [Divi](https://www.elegantthemes.com/gallery
 * [Responsive Divi Backgrounds](https://wordpress.org/plugins/responsive-divi-backgrounds/) - Serve properly sized backgrounds to your visitors! Improve your website performance and decrease the load time for every page that has a slider or a section with background image. This plugin works only with the Divi Builder, usually part of the Divi Theme. No configuration required.
 * [Freesoul Deactivate Plugins](https://wordpress.org/plugins/freesoul-deactivate-plugins/) - Disable plugins on specific pages for performance improvement and support in problem-solving even when you have many plugins.
 * [Editor Cleanup For Divi Builder](https://wordpress.org/plugins/editor-cleanup-for-divi-builder/) - An FDP add-on to speed up Divi Builder in the backend.
+* [Clear Divi Cache Button](https://wordpress.org/plugins/clear-divi-cache-button/) - Clear the Divi Static CSS Files faster with a nifty button in the WordPress toolbar.
 
 ## Resource
 
