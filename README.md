@@ -65,6 +65,7 @@ A curated list of amazingly awesome [Divi](https://www.elegantthemes.com/gallery
 * [Freesoul Deactivate Plugins](https://wordpress.org/plugins/freesoul-deactivate-plugins/) - Disable plugins on specific pages for performance improvement and support in problem-solving even when you have many plugins.
 * [Editor Cleanup For Divi Builder](https://wordpress.org/plugins/editor-cleanup-for-divi-builder/) - An FDP add-on to speed up Divi Builder in the backend.
 * [Clear Divi Cache Button](https://wordpress.org/plugins/clear-divi-cache-button/) - Clear the Divi Static CSS Files faster with a nifty button in the WordPress toolbar.
+* [BunnyFonts for Divi](https://wordpress.org/plugins/bunny-fonts-for-divi/) - Replaces Google Fonts with BunnyFonts to comply with GDPR regulations.
 
 ## Resource
 
